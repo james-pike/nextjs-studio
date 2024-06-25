@@ -26,6 +26,8 @@ export default function AboutPage() {
       <Team />
       <Contact />
       <Clients />
+      <Clients />
+      <Clients />
       <MarqueeComponent />
       <Footer8 />
     </>
